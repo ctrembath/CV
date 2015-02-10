@@ -32,8 +32,10 @@ Oct 2014 - Jan 2015
 Highly selective 12 week web development course. Focused on teaching best programming practices.
 
 ### University of the Arts London - Camberwell College
-BA Sculpture | First Class Honours
-Sep 2011 - July 2014
+BA (Hons) Sculpture (2:1): 2011–2014
+Undergraduate Fine Art Sculpture degree.
+
+
 
 
 ### Languages
