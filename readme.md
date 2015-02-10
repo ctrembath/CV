@@ -11,30 +11,37 @@ Now a Makers Accademy Graduate, I am looking for a career in front-end developme
 
 #Languages
 
-JavaScript/Jquery
-HTML5
-CSS3
-Ruby
+*JavaScript/Jquery
+*HTML5
+*CSS3
+*Ruby
 
 #Frameworks & Libraries
-Express Node.js Angular Sinatra Rails Bootstrap Foundation Skeleton
+*Angular
+*Express
+*Node.js 
+*Sinatra 
+*Rails 
+*Bootstrap 
+*Foundation 
+*Skeleton
 
 #Practices
-Test-driven Development
-Behaviour-driven Development
-Pair Programming
-Agile
-Git version control
+*Test-driven Development
+*Behaviour-driven Development
+*Pair Programming
+*Agile
+*Git version control
 
 #Testing Tools
-Jasmine
-Mocha
-Chai
-Caspar
-RSpec
-Cucumber
-Capybara
+*Jasmine
+*Mocha
+*Chai
+*Caspar
+*RSpec
+*Cucumber
+*Capybara
 
 
 #Web Services
-Heroku
+*Heroku
