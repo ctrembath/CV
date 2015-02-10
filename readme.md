@@ -9,39 +9,43 @@ After completing a BA in Sculpture from the University of the Arts London (Cambe
 Now a Makers Accademy Graduate, I am looking for a career in front-end development.
 
 
-#Languages
+# Languages
+* JavaScript/Jquery
+* HTML5
+* CSS3
+* Ruby
 
-*JavaScript/Jquery
-*HTML5
-*CSS3
-*Ruby
+## Frameworks & Libraries
+* Angular
+* Express
+* Node.js 
+* Sinatra 
+* Rails 
+* Bootstrap 
+* Foundation 
+* Skeleton
 
-#Frameworks & Libraries
-*Angular
-*Express
-*Node.js 
-*Sinatra 
-*Rails 
-*Bootstrap 
-*Foundation 
-*Skeleton
+## Practices
+* Test-driven Development
+* Behaviour-driven Development
+* Pair Programming
+* Agile
+* Git version control
 
-#Practices
-*Test-driven Development
-*Behaviour-driven Development
-*Pair Programming
-*Agile
-*Git version control
-
-#Testing Tools
-*Jasmine
-*Mocha
-*Chai
-*Caspar
-*RSpec
-*Cucumber
-*Capybara
+## Testing Tools
+* Jasmine
+* Mocha
+* Chai
+* Caspar
+* RSpec
+* Cucumber
+* Capybara
 
 
-#Web Services
-*Heroku
+## Web Services
+* Heroku
+
+##Adobe Software
+* Photoshop
+* Illustrator
+* Premier Pro CS6
