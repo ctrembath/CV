@@ -18,7 +18,7 @@ The project was set as a challenge for the 4-day 'Makerthon' at Makers Academy, 
 
 
 ##Student Stop Aids - Would You Rather
-![full](https://cloud.githubusercontent.com/assets/8418748/6108925/e4705168-b06e-11e4-91f0-942de023bf3b.png)
+![full](https://cloud.githubusercontent.com/assets/8418748/6127497/944ce8b2-b123-11e4-8704-e66455fc6e7d.png)
 
 ![candidates](https://cloud.githubusercontent.com/assets/8418748/6108988/9bb9efb4-b06f-11e4-9d62-f1fbd0b26df6.png)
 Working with the charity Students Stop Aids myself and 4 others created Would You Rather?
